@@ -1,2 +1,2 @@
-# 1M-arab-coder-initiative
-home movies web page using python
+# Homepage
+homepage movies website connected with python backend
