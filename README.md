@@ -1,2 +1,2 @@
 # Homepage
-homepage movies website connected with python backend
+Homepage movies website connected with python backend
