@@ -1,2 +1,2 @@
 # Homepage
-Homepage movies website connected with python backend
+Homepage movies website Designed by html, css and bootsrab with backend of javascript and python.
